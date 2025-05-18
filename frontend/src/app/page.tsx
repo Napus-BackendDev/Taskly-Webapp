@@ -57,7 +57,7 @@ export default function Home() {
               value={name}
               onChange={(e) => setName(e.target.value)}
               className="border p-2  w-full "
-              placeholder="Username"
+              placeholder="Usernam"
             />
           </div>
           <input
